@@ -6,21 +6,23 @@
 - 👯 I’m looking to collaborate and contribute to Open Source projects
 - ⚡ Fun fact: I love to play video games, travel and do some mountaineering
 
-### Connect with me:
+### Languages and Tools:
 
-[<img align="left" alt="hdescottes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<img align="left" alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ Idea-black?logo=intellij-idea&logoColor=white&style=flat" />
+<img align="left" alt="Git" src="https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white&style=flat" />
+<img align="left" alt="Java" src="https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white&style=flat" />
+<img align="left" alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-03dbfc?logo=kotlin&logoColor=white&style=flat" />
+<img align="left" alt="HTML5" src="https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white&style=flat" />
+<img align="left" alt="CSS3" src="https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=flat" />
+<img align="left" alt="MySQL" src="https://img.shields.io/badge/-MySQL-b700c4?logo=mysql&logoColor=white&style=flat" />
+<img align="left" alt="MongoDB" src ="https://img.shields.io/badge/-MongoDB-0bb01b?logo=mongodb&logoColor=white&style=flat" />
+<img align="left" alt="Kubernetes" src ="https://img.shields.io/badge/-Kubernetes-0085ba?logo=kubernetes&logoColor=white&style=flat" />
 
 <br />
 
-### Languages and Tools:
+### Connect with me:
 
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+[<img align="left" alt="hdescottes | LinkedIn" width=100px src="https://img.shields.io/badge/-LinkedIn-0085ba?logo=linkedin&logoColor=white&style=flat" />][linkedin]
 
 <br />
 
