@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there, I'm Hugo 👋
 
-<!--
-**hdescottes/hdescottes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a young Developer making my way through code!!
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning everything 🤣, but especially code architecture
+- 👯 I’m looking to collaborate and contribute to Open Source projects
+- ⚡ Fun fact: I love to play video games, travel and do some mountaineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="hdescottes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="hdescottes's GitHub Stats" src="https://github-readme-stats.hdescottes.vercel.app/api?username=hdescottes&show_icons=true&hide_border=true" />
+
+</details>
+
+[linkedin]: https://www.linkedin.com/in/hugo-descottes
