@@ -16,9 +16,7 @@
 <a href="#"><img align="left" alt="CSS3" src="https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=flat" />
 <a href="#"><img align="left" alt="MySQL" src="https://img.shields.io/badge/-MySQL-b700c4?logo=mysql&logoColor=white&style=flat" />
 <a href="#"><img align="left" alt="MongoDB" src ="https://img.shields.io/badge/-MongoDB-0bb01b?logo=mongodb&logoColor=white&style=flat" />
-<a href="#"><img align="left" alt="Kubernetes" src ="https://img.shields.io/badge/-Kubernetes-0085ba?logo=kubernetes&logoColor=white&style=flat" />
-
-<br />
+<a href="#"><img alt="Kubernetes" src ="https://img.shields.io/badge/-Kubernetes-0085ba?logo=kubernetes&logoColor=white&style=flat" />
 
 ### Connect with me:
 
