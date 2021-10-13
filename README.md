@@ -30,8 +30,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/hdescottes/GdxGame/pull/37) in [hdescottes/GdxGame](https://github.com/hdescottes/GdxGame)
-2. 💪 Opened PR [#37](https://github.com/hdescottes/GdxGame/pull/37) in [hdescottes/GdxGame](https://github.com/hdescottes/GdxGame)
+1. 🎉 Merged PR [#38](https://github.com/hdescottes/GdxGame/pull/38) in [hdescottes/GdxGame](https://github.com/hdescottes/GdxGame)
+2. 💪 Opened PR [#38](https://github.com/hdescottes/GdxGame/pull/38) in [hdescottes/GdxGame](https://github.com/hdescottes/GdxGame)
 <!--END_SECTION:activity-->
 
 </details>
