@@ -30,8 +30,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/hdescottes/AngularPOC/pull/3) in [hdescottes/AngularPOC](https://github.com/hdescottes/AngularPOC)
-2. 💪 Opened PR [#3](https://github.com/hdescottes/AngularPOC/pull/3) in [hdescottes/AngularPOC](https://github.com/hdescottes/AngularPOC)
+1. 🗣 Commented on [#44](https://github.com/hdescottes/GdxGame/issues/44) in [hdescottes/GdxGame](https://github.com/hdescottes/GdxGame)
+2. 🎉 Merged PR [#3](https://github.com/hdescottes/AngularPOC/pull/3) in [hdescottes/AngularPOC](https://github.com/hdescottes/AngularPOC)
 <!--END_SECTION:activity-->
 
 </details>
