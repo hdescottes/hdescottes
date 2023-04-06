@@ -2,7 +2,7 @@
 
 ## I'm a young Developer making my way through code!!
 
-- 🌱 I’m currently learning everything 🤣, but especially code architecture
+- 🌱 I’m currently improving in Java and React 🤣, and especially code architecture
 - 👯 I’m looking to collaborate and contribute to Open Source projects
 - ⚡ Fun fact: I love to play video games, travel and do some mountaineering
 
