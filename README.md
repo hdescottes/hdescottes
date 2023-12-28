@@ -18,6 +18,7 @@
 <a href="#"><img align="left" alt="PostgreSql" src ="https://img.shields.io/badge/-PostgreSql-%23316192?logo=postgres&logoColor=white&style=flat" />
 <a href="#"><img align="left" alt="Kubernetes" src ="https://img.shields.io/badge/-Kubernetes-0085ba?logo=kubernetes&logoColor=white&style=flat" />
 <a href="#"><img align="left" alt="Docker" src ="https://img.shields.io/badge/-Docker-%230db7ed?logo=docker&logoColor=white&style=flat" />
+<br>
 
 ### Connect with me:
 
