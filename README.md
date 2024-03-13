@@ -31,8 +31,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.6.2](https://github.com/hdescottes/GdxGame/releases/tag/2.6.2) in [hdescottes/GdxGame](https://github.com/hdescottes/GdxGame)
-2. 🎉 Merged PR [#57](https://github.com/hdescottes/GdxGame/pull/57) in [hdescottes/GdxGame](https://github.com/hdescottes/GdxGame)
+1. 🚀 Published release [v1.2](https://github.com/hdescottes/SamusProgressBar/releases/tag/1.2) in [hdescottes/SamusProgressBar](https://github.com/hdescottes/SamusProgressBar)
+2. 🚀 Published release [v2.6.2](https://github.com/hdescottes/GdxGame/releases/tag/2.6.2) in [hdescottes/GdxGame](https://github.com/hdescottes/GdxGame)
 <!--END_SECTION:activity-->
 
 </details>
