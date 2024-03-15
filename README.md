@@ -31,8 +31,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/hdescottes/StockMarketDashboard/pull/21) in [hdescottes/StockMarketDashboard](https://github.com/hdescottes/StockMarketDashboard)
-2. 🚀 Published release [v1.2](https://github.com/hdescottes/SamusProgressBar/releases/tag/1.2) in [hdescottes/SamusProgressBar](https://github.com/hdescottes/SamusProgressBar)
+1. 🎉 Merged PR [#21](https://github.com/hdescottes/StockMarketDashboard/pull/21) in [hdescottes/StockMarketDashboard](https://github.com/hdescottes/StockMarketDashboard)
+2. 💪 Opened PR [#21](https://github.com/hdescottes/StockMarketDashboard/pull/21) in [hdescottes/StockMarketDashboard](https://github.com/hdescottes/StockMarketDashboard)
 <!--END_SECTION:activity-->
 
 </details>
