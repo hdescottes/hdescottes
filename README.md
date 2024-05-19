@@ -31,8 +31,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#60](https://github.com/hdescottes/GdxGame/pull/60#issuecomment-2118852757) in [hdescottes/GdxGame](https://github.com/hdescottes/GdxGame)
-2. 🗣 Commented on [#60](https://github.com/hdescottes/GdxGame/pull/60#issuecomment-2096630311) in [hdescottes/GdxGame](https://github.com/hdescottes/GdxGame)
+1. 🎉 Merged PR [#60](https://github.com/hdescottes/GdxGame/pull/60) in [hdescottes/GdxGame](https://github.com/hdescottes/GdxGame)
+2. 🗣 Commented on [#60](https://github.com/hdescottes/GdxGame/pull/60#issuecomment-2119332403) in [hdescottes/GdxGame](https://github.com/hdescottes/GdxGame)
 <!--END_SECTION:activity-->
 
 </details>
