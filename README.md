@@ -31,8 +31,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#68](https://github.com/hdescottes/GdxGame/pull/68) in [hdescottes/GdxGame](https://github.com/hdescottes/GdxGame)
-2. ❌ Closed PR [#67](https://github.com/hdescottes/GdxGame/pull/67) in [hdescottes/GdxGame](https://github.com/hdescottes/GdxGame)
+1. ❌ Closed PR [#68](https://github.com/hdescottes/GdxGame/pull/68) in [hdescottes/GdxGame](https://github.com/hdescottes/GdxGame)
+2. 💪 Opened PR [#68](https://github.com/hdescottes/GdxGame/pull/68) in [hdescottes/GdxGame](https://github.com/hdescottes/GdxGame)
 <!--END_SECTION:activity-->
 
 </details>
