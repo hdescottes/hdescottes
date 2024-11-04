@@ -31,8 +31,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#125](https://github.com/hdescottes/StockMarketDashboard/pull/125#issuecomment-2453604632) in [hdescottes/StockMarketDashboard](https://github.com/hdescottes/StockMarketDashboard)
-2. 🎉 Merged PR [#147](https://github.com/hdescottes/StockMarketDashboard/pull/147) in [hdescottes/StockMarketDashboard](https://github.com/hdescottes/StockMarketDashboard)
+1. 🗣 Commented on [#598](https://github.com/apexcharts/react-apexcharts/issues/598#issuecomment-2453626267) in [apexcharts/react-apexcharts](https://github.com/apexcharts/react-apexcharts)
+2. 🗣 Commented on [#125](https://github.com/hdescottes/StockMarketDashboard/pull/125#issuecomment-2453604632) in [hdescottes/StockMarketDashboard](https://github.com/hdescottes/StockMarketDashboard)
 <!--END_SECTION:activity-->
 
 </details>
