@@ -31,8 +31,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#598](https://github.com/apexcharts/react-apexcharts/issues/598#issuecomment-2453626267) in [apexcharts/react-apexcharts](https://github.com/apexcharts/react-apexcharts)
-2. 🗣 Commented on [#125](https://github.com/hdescottes/StockMarketDashboard/pull/125#issuecomment-2453604632) in [hdescottes/StockMarketDashboard](https://github.com/hdescottes/StockMarketDashboard)
+1. ❌ Closed PR [#22](https://github.com/hdescottes/SamusProgressBar/pull/22) in [hdescottes/SamusProgressBar](https://github.com/hdescottes/SamusProgressBar)
+2. ❌ Closed PR [#23](https://github.com/hdescottes/SamusProgressBar/pull/23) in [hdescottes/SamusProgressBar](https://github.com/hdescottes/SamusProgressBar)
 <!--END_SECTION:activity-->
 
 </details>
