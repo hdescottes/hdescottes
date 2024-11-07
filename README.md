@@ -31,8 +31,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#22](https://github.com/hdescottes/SamusProgressBar/pull/22) in [hdescottes/SamusProgressBar](https://github.com/hdescottes/SamusProgressBar)
-2. ❌ Closed PR [#23](https://github.com/hdescottes/SamusProgressBar/pull/23) in [hdescottes/SamusProgressBar](https://github.com/hdescottes/SamusProgressBar)
+1. 🎉 Merged PR [#125](https://github.com/hdescottes/StockMarketDashboard/pull/125) in [hdescottes/StockMarketDashboard](https://github.com/hdescottes/StockMarketDashboard)
+2. ❌ Closed PR [#22](https://github.com/hdescottes/SamusProgressBar/pull/22) in [hdescottes/SamusProgressBar](https://github.com/hdescottes/SamusProgressBar)
 <!--END_SECTION:activity-->
 
 </details>
