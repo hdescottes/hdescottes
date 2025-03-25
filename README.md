@@ -31,8 +31,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#45](https://github.com/hdescottes/SamusProgressBar/pull/45) in [hdescottes/SamusProgressBar](https://github.com/hdescottes/SamusProgressBar)
-2. 🎉 Merged PR [#43](https://github.com/hdescottes/SamusProgressBar/pull/43) in [hdescottes/SamusProgressBar](https://github.com/hdescottes/SamusProgressBar)
+1. 🎉 Merged PR [#45](https://github.com/hdescottes/SamusProgressBar/pull/45) in [hdescottes/SamusProgressBar](https://github.com/hdescottes/SamusProgressBar)
+2. 💪 Opened PR [#45](https://github.com/hdescottes/SamusProgressBar/pull/45) in [hdescottes/SamusProgressBar](https://github.com/hdescottes/SamusProgressBar)
 <!--END_SECTION:activity-->
 
 </details>
