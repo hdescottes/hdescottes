@@ -1,6 +1,6 @@
 ### Hi there, I'm Hugo 👋
 
-## I'm a young Developer making my way through code!!
+## I'm a Developer making my way through code!!
 
 - 🌱 I’m currently improving in Java and React, and especially code architecture
 - 👯 I’m looking to collaborate and contribute to Open Source projects
