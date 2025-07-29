@@ -31,8 +31,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#409](https://github.com/hdescottes/StockMarketDashboard/pull/409) in [hdescottes/StockMarketDashboard](https://github.com/hdescottes/StockMarketDashboard)
-2. 🎉 Merged PR [#398](https://github.com/hdescottes/StockMarketDashboard/pull/398) in [hdescottes/StockMarketDashboard](https://github.com/hdescottes/StockMarketDashboard)
+1. 🎉 Merged PR [#123](https://github.com/hdescottes/GdxGame/pull/123) in [hdescottes/GdxGame](https://github.com/hdescottes/GdxGame)
+2. 🎉 Merged PR [#124](https://github.com/hdescottes/GdxGame/pull/124) in [hdescottes/GdxGame](https://github.com/hdescottes/GdxGame)
 <!--END_SECTION:activity-->
 
 </details>
