@@ -31,8 +31,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](undefined) in [hdescottes/SoftwareUpdaterCLI](https://github.com/hdescottes/SoftwareUpdaterCLI)
-2. 💪 Opened PR [#532](undefined) in [hdescottes/StockMarketDashboard](https://github.com/hdescottes/StockMarketDashboard)
+1. ❌ Merged PR [#2](undefined) in [hdescottes/SoftwareUpdaterCLI](https://github.com/hdescottes/SoftwareUpdaterCLI)
+2. 💪 Opened PR [#2](undefined) in [hdescottes/SoftwareUpdaterCLI](https://github.com/hdescottes/SoftwareUpdaterCLI)
 <!--END_SECTION:activity-->
 
 </details>
