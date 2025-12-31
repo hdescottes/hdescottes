@@ -39,6 +39,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+
   ![Stats](./profile/stats.svg)
 </details>
 
@@ -46,7 +47,6 @@
   <summary>:zap: Top Languages</summary>
   
   ![Top Languages](./profile/top-langs.svg)
-  
 </details>
 
 [linkedin]: https://www.linkedin.com/in/hugo-descottes
