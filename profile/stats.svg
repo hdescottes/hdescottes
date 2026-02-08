@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Hugo Descottes' GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 189, Total Commits  (last year) : 406, Total PRs: 138, Total Issues: 1, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 190, Total Commits  (last year) : 406, Total PRs: 138, Total Issues: 1, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 90.43353697521246;
+        stroke-dashoffset: 90.36051064667716;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >189</text>
+      >190</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
