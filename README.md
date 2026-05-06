@@ -31,8 +31,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#641](https://github.com/hdescottes/StockMarketDashboard/pull/641) in [hdescottes/StockMarketDashboard](https://github.com/hdescottes/StockMarketDashboard)
-2. 💪 Opened PR [#107](https://github.com/hdescottes/SamusProgressBar/pull/107) in [hdescottes/SamusProgressBar](https://github.com/hdescottes/SamusProgressBar)
+1. 🗣 Commented on [#169](https://github.com/hdescottes/GdxGame/issues/169#issuecomment-4392078080) in [hdescottes/GdxGame](https://github.com/hdescottes/GdxGame)
+2. 🗣 Commented on [#170](https://github.com/hdescottes/GdxGame/issues/170#issuecomment-4392072952) in [hdescottes/GdxGame](https://github.com/hdescottes/GdxGame)
 <!--END_SECTION:activity-->
 
 </details>
