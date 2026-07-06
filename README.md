@@ -31,8 +31,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#186](https://github.com/hdescottes/GdxGame/issues/186#issuecomment-4895886868) in [hdescottes/GdxGame](https://github.com/hdescottes/GdxGame)
-2. 🗣 Commented on [#171](https://github.com/hdescottes/GdxGame/issues/171#issuecomment-4397922571) in [hdescottes/GdxGame](https://github.com/hdescottes/GdxGame)
+1. 🔒 Closed issue [#186](https://github.com/hdescottes/GdxGame/issues/186) in [hdescottes/GdxGame](https://github.com/hdescottes/GdxGame)
+2. 🗣 Commented on [#186](https://github.com/hdescottes/GdxGame/issues/186#issuecomment-4895886868) in [hdescottes/GdxGame](https://github.com/hdescottes/GdxGame)
 <!--END_SECTION:activity-->
 
 </details>
